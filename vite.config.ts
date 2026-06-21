@@ -4,7 +4,7 @@ import path from 'path';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/3DLDXhio/',
+  base: "/3DLDXhio/",
 
   plugins: [
     react(),
