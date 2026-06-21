@@ -1,9 +1,8 @@
 {
   "name": "3DLDXhio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
-  "homepage": "https://webio4.github.io/3DLDXhio/",
 
   "scripts": {
     "dev": "vite",
