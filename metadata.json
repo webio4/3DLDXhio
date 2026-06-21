@@ -1,0 +1,6 @@
+{
+  "name": "3D Car Driving Simulator",
+  "description": "An immersive 3D terrain car driving simulator with realistic physics, steering wheel animations, customizable cars, track configurations, day-night cycle, RemodeCX app remote control and mochiAIC#3 advanced autopilot system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
